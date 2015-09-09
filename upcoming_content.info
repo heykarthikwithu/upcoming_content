@@ -1,0 +1,4 @@
+name = upcoming_content
+description = custom module
+package = custom
+core = 7.x

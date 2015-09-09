@@ -1,0 +1,6 @@
+<?php
+
+function upcoming_content_views_api() {
+  return array('api' => 3.0);
+}
+
